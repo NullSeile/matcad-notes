@@ -32,6 +32,10 @@
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
       "insertSpace": true
+    },
+    "Equacions Diferencials Ordinàries.md": {
+      "profile": "English",
+      "theoremCalloutStyle": "Plain"
     }
   },
   "extraSettings": {

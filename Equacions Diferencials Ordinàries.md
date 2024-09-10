@@ -35,15 +35,24 @@ Si l'equació és autònoma $y' = f(y)$ les solucions d'equilibri $y(x) = y*$ es
 	2) $y' = y - x$ --> No té equilibri
 
 ## Existència, Unitat i Continuïtat de Solucions
-> [!teorema] (Picard - Cindelof):
-> Sigui $R$ una regió regular del pla $xy$ definida per $R= \{(x,y) \mid a \le x \le b, \, c \le y \le d\}$, que conté el punt $(x_0, y_0)$.
-> Suposem que $f$ i que $\frac{\partial f}{\partial y}$ sigui continues a $R$. Aleshores existeix uns única solució $y(x)$ definida a un interval $I_0 = (x_o - h, x_0 + h), \, h > 0$ contingut a $[a, b]$ del problema de valor inicial (PVI)
-> $$(*)\begin{cases}y' = f(x,y) \\y(x_0) = y_0\end{cases}$$
-> A més a més si denotem la solució de (\*) per $y(x; x_0, y_0)$ es compleix que $y(x; x_0, y_0)$ és una funció continua respecte $x_0$, $y_0$
->
-> Existència $\implies f$ contínua (Peano)
-> Per assegurar unicitat és suficient amb que $f$ sigui de **Lipschitz** respecte la variable $y$. És a dir: $$\exists L > 0 \text{ (constant) t.q. } |f(x,y)-f(x,z)| < L|y-z| \, \forall y,z \in (c,d)$$
 
+```ad-theoreme
+Picard - Cindelof
+Sigui $R$ una regió regular del pla $xy$ definida per $R= \{(x,y) \mid a \le x \le b, \, c \le y \le d\}$, que conté el punt $(x_0, y_0)$.
+Suposem que $f$ i que $\frac{\partial f}{\partial y}$ sigui continues a $R$. Aleshores existeix uns única solució $y(x)$ definida a un interval $I_0 = (x_o - h, x_0 + h), \, h > 0$ contingut a $[a, b]$ del problema de valor inicial (PVI)
+$$(*)\begin{cases}y' = f(x,y) \\y(x_0) = y_0\end{cases}$$
+A més a més si denotem la solució de (\*) per $y(x; x_0, y_0)$ es compleix que $y(x; x_0, y_0)$ és una funció continua respecte $x_0$, $y_0$
+
+Existència $\implies f$ contínua (Peano)
+Per assegurar unicitat és suficient amb que $f$ sigui de **Lipschitz** respecte la variable $y$. És a dir: $$\exists L > 0 \text{ (constant) t.q. } |f(x,y)-f(x,z)| < L|y-z| \, \forall y,z \in (c,d)$$
+```
+
+
+```ad-example
 **Teorema**:
-	Si $f$ i $\frac{\partial f}{\partial y}$ són contínues a $\mathbb{R}$ aleshores dues corbes solució de $y' = f(x,y)$ diferents no es poden tallar a $\mathbb{R}$. asdf
-	
+Si $f$ i $\frac{\partial f}{\partial y}$ són contínues a $\mathbb{R}$ aleshores dues corbes solució de $y' = f(x,y)$ diferents no es poden tallar a $\mathbb{R}$. asdf
+```
+
+
+
+
