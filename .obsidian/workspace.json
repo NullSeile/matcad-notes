@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "790fcb60bde29f7d",
+        "id": "8530852fdaf22d73",
         "type": "tabs",
         "children": [
           {
-            "id": "e54d50a68166c90d",
+            "id": "e4042cc77da3f9d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,13 +128,21 @@
                 "file": "Equacions Diferencials Ordinàries.md"
               }
             }
+          },
+          {
+            "id": "cbd47d6e01029b93",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,16 +158,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c7be1238eec797ec",
+  "active": "e4042cc77da3f9d9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Equacions Diferencials Ordinàries.md",
-    "Untitled.canvas",
     "Ink/Writing/2024.9.10 - 10.07am.writing",
     "Ink/Writing/2024.9.10 - 10.19am.writing",
     "Ink/Writing/2024.9.10 - 9.53am.writing",
     "Ink/Writing/2024.9.10 - 9.34am.writing",
     "Ink/Writing/2024.9.10 - 9.31am.writing",
+    "Equacions Diferencials Ordinàries.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Ink/Writing",
     "Ink",
     "Untitled"
