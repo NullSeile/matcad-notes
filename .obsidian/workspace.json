@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8530852fdaf22d73",
+        "id": "2e10a4b5ea68ebff",
         "type": "tabs",
         "children": [
           {
-            "id": "e4042cc77da3f9d9",
+            "id": "537e6e29031fd07f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/editing-toolbar/main.js",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,22 +146,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false,
-      "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4042cc77da3f9d9",
+  "active": "537e6e29031fd07f",
   "lastOpenFiles": [
     "Equacions Diferencials Ordinàries.md",
     "Ink/Writing/2024.9.10 - 10.07am.writing",
-    "Excalidraw/Drawing 2024-09-10 11.39.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 13.14.31.excalidraw.md",
+    "Untitled.md",
+    "ç.md",
     "Excalidraw",
+    "Excalidraw/Drawing 2024-09-10 11.39.00.excalidraw.md",
     "Ink/Writing/2024.9.10 - 10.19am.writing",
     "Ink/Writing/2024.9.10 - 9.53am.writing",
     "Ink/Writing/2024.9.10 - 9.34am.writing",
     "Ink/Writing/2024.9.10 - 9.31am.writing",
-    "Untitled.md",
     "Untitled.canvas",
     "Ink/Writing",
     "Ink",

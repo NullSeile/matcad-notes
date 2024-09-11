@@ -1,8 +1,13 @@
 # Equacions diferencials de 1r ordre
 Una ==equació diferencial ordinària de primer ordre== per a una funció $y(x)$ és una equació 
-$$
+
+```math
+||{"id":1475135734883}||
 F(x,y(x), y'(x)) = 0
-$$
+```
+
+<div tabindex='-1'contenteditable='false' class='livePrevPlus'></div>
+
 La forma explícita d'una *edo* de 1r ordre és 
 $$
 dy/dx = y'(x) = f(x,y(x)) \text{ o (*)} f(x,y)
@@ -21,18 +26,23 @@ En general, les soucions d'una edo de 1r ordre formen una família uniparamètri
 	La família uniparamètrica $y(x) = c e^x$ és solució de l'edo $y' = y$
 
 **Definició:**
-	Una equació diferencial de 1r ordre amb una condició inicial s'anomena ==problema de valor inicial==
-	![[2024.9.10 - 10.07am.writing]]
+	Una equació diferencial de 1r ordre amb una condició inicial s'anomena ==problema de valor inicial== $$\begin{cases}
+y' = f(x,y) \\
+y(x_0)=y_{0}
+\end{cases}$$
 	La solució d'un problema de valor inicial s'anomena ==solució particular de l'equació==
+
+```ad-
+```
 
 Un cas particular de solucions són els ==equilibris==, que són les solucions que no depenen de la variable independent (de $x$).
 Una solució d'equilibri de $y' = f(x,y)$ és una solució de la forma $y(x) = y* \text{(numero)}$. Es compleix que $y(x)=y*$ és solució d'equilibri de $$y' = f(x,y) \iff f(x,y*)=0$$ per tot $x$ per al qual $f(x,y)$ estigui ben definit.
 
 Si l'equació és autònoma $y' = f(y)$ les solucions d'equilibri $y(x) = y*$ estan donades pels zeros de $f$ i estan definides $\forall x \in \mathbb{R}$
 
-**Exemples:**
-	1) $y' = (y-1)e^x$  --> $f(x) = 1$
-	2) $y' = y - x$ --> No té equilibri
+<u>Exemples</u>:
+ 1) $y' = (y-1)e^x$  --> $f(x) = 1$
+ 2) $y' = y - x$ --> No té equilibri
 
 ## Existència, Unitat i Continuïtat de Solucions
 
