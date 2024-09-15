@@ -1,0 +1,5 @@
+.admonition-theorem,
+.admonition-definition
+{
+    border: 1px solid var(--background-modifier-border-focus);
+}

@@ -1,0 +1,22 @@
+{
+  "nodePath": "node",
+  "enabled": true,
+  "hotkeys": {
+    "accept": "Tab",
+    "cancel": "Escape",
+    "request": "Ctrl-Shift-Enter",
+    "partial": "Ctrl-Shift-.",
+    "next": "Ctrl-Shift-ArrowDown",
+    "disable": "Ctrl-Shift-ArrowRight"
+  },
+  "suggestionDelay": 500,
+  "debug": false,
+  "onlyOnHotkey": false,
+  "onlyInCodeBlock": false,
+  "exclude": [],
+  "deviceSpecificSettings": [
+    "nodePath"
+  ],
+  "useDeviceSpecificSettings": false,
+  "proxy": ""
+}

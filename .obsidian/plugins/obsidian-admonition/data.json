@@ -1,10 +1,10 @@
 {
   "userAdmonitions": {
-    "theoreme": {
-      "type": "theoreme",
+    "theorem": {
+      "type": "theorem",
       "color": "#7d7d7d",
       "icon": {
-        "name": "book",
+        "name": "bacterium",
         "type": "font-awesome"
       },
       "command": false,
@@ -12,6 +12,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "definition": {
+      "type": "definition",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "bible",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,
@@ -34,5 +46,5 @@
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
   "useSnippet": false,
-  "snippetPath": "custom-admonitions.5a319d"
+  "snippetPath": "custom-admonitions.beeee6"
 }

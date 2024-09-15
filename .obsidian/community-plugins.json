@@ -6,7 +6,9 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "editing-toolbar",
-  "obsidian-admonition",
   "quick-latex",
-  "obsidian-underline"
+  "obsidian-underline",
+  "execute-code",
+  "github-copilot",
+  "obsidian-admonition"
 ]
