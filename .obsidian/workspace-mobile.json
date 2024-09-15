@@ -11,10 +11,11 @@
             "id": "d22a6fb94668777e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
+                "file": "Equacions Diferencials Ordinàries.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Equacions Diferencials Ordinàries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Equacions Diferencials Ordinàries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Equacions Diferencials Ordinàries.md"
+          }
         }
       },
       {
