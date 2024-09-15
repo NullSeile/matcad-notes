@@ -21,9 +21,10 @@
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Definition",
+      "title": "Definició",
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": true,
