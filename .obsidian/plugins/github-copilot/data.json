@@ -7,7 +7,7 @@
     "request": "Ctrl-Shift-Enter",
     "partial": "Ctrl-Shift-.",
     "next": "Ctrl-Shift-ArrowDown",
-    "disable": "Ctrl-Shift-ArrowRight"
+    "disable": "Ctrl-Shift-Delete"
   },
   "suggestionDelay": 500,
   "debug": false,
