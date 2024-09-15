@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2e10a4b5ea68ebff",
+        "id": "100173e56402ec04",
         "type": "tabs",
         "children": [
           {
-            "id": "537e6e29031fd07f",
+            "id": "7729a62ab925a021",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equacions Diferencials Ordinàries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equacions Diferencials Ordinàries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equacions Diferencials Ordinàries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equacions Diferencials Ordinàries.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,22 +157,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "537e6e29031fd07f",
+  "active": "7729a62ab925a021",
   "lastOpenFiles": [
     "Equacions Diferencials Ordinàries.md",
-    "Ink/Writing/2024.9.10 - 10.07am.writing",
-    "Excalidraw/Drawing 2024-09-11 13.14.31.excalidraw.md",
-    "Untitled.md",
-    "ç.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2024-09-10 11.39.00.excalidraw.md",
-    "Ink/Writing/2024.9.10 - 10.19am.writing",
-    "Ink/Writing/2024.9.10 - 9.53am.writing",
-    "Ink/Writing/2024.9.10 - 9.34am.writing",
-    "Ink/Writing/2024.9.10 - 9.31am.writing",
-    "Untitled.canvas",
+    "Ink/Writing/2024.9.16 - 0.10am.writing",
     "Ink/Writing",
     "Ink",
-    "Untitled"
+    "Untitled.md",
+    "Untitled 1.md",
+    "Ink/Writing/2024.9.15 - 16.46pm.writing",
+    "Ink/Writing/2024.9.15 - 2.27am.writing",
+    "Ink/Writing/2024.9.15 - 2.26am.writing",
+    "Ink/Drawing/2024.9.15 - 2.26am.drawing",
+    "Ink/Drawing/2024.9.15 - 2.24am.drawing",
+    "Ink/Writing/2024.9.15 - 2.00am.writing",
+    "Ink/Writing/2024.9.15 - 1.56am.writing",
+    "Excalidraw/Drawing 2024-09-11 13.14.31.excalidraw.md",
+    "ç.md",
+    "Excalidraw/Drawing 2024-09-10 11.39.00.excalidraw.md",
+    "Untitled.canvas"
   ]
 }
