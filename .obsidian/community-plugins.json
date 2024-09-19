@@ -9,5 +9,10 @@
   "execute-code",
   "github-copilot",
   "obsidian-admonition",
-  "number-headings-obsidian"
+  "number-headings-obsidian",
+  "obsidian-annotator",
+  "highlightr-plugin",
+  "obsidian-style-settings",
+  "css-editor",
+  "obsidian-latex"
 ]

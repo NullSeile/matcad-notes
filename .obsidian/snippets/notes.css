@@ -1,5 +1,31 @@
-.admonition-theorem,
-.admonition-definition
+/* @settings
+
+name: My Tweaks :>
+id: nullptr-tweaks
+settings:
+    - 
+        id: text-highlight-bg-rgb
+        title: Hightlight Color
+        type: variable-color
+        opacity: false
+        format: rgb-values
+        default: '#ffd000'
+*/
+
+
+/* .admonition-theorem, */
+.admonition-definition,
+.admonition-exercice
 {
     border: 1px solid var(--background-modifier-border-focus);
+}
+
+.admonition-exercice .admonition-title-icon {
+    display: none;
+}
+
+.highlightr-lowlight .admonition-content mark,
+.highlightr-lowlight .admonition-content span.cm-highlight,
+.highlightr-lowlight .admonition-content > .markdown-preview-view mark {
+    --lowlight-background: transparent;
 }

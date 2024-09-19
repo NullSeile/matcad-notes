@@ -2,7 +2,7 @@
   "userAdmonitions": {
     "theorem": {
       "type": "theorem",
-      "color": "#7d7d7d",
+      "color": "157, 64, 191",
       "icon": {
         "name": "bacterium",
         "type": "font-awesome"
@@ -15,13 +15,37 @@
     },
     "definition": {
       "type": "definition",
-      "color": "#7d7d7d",
+      "color": "157, 64, 191",
       "icon": {
         "name": "bible",
         "type": "font-awesome"
       },
       "command": false,
       "title": "Definició",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "exercice": {
+      "type": "exercice",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "biohazard",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Exercici",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "example": {
+      "type": "example",
+      "color": "145, 145, 145",
+      "icon": {
+        "name": "bars",
+        "type": "font-awesome"
+      },
+      "command": false,
       "injectColor": true,
       "noTitle": false,
       "copy": false

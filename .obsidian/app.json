@@ -1,1 +1,6 @@
-{}
+{
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "promptDelete": false,
+  "livePreview": false
+}

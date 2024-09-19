@@ -2,5 +2,8 @@
   "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "notes"
-  ]
+  ],
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "obsidian"
 }
