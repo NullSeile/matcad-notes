@@ -45,7 +45,7 @@ Si l'equació és autònoma $y' = f(y)$ les solucions d'equilibri $y(x) = y*$ es
 ## Existència, Unitat i Continuïtat de Solucions
 
 ````ad-theorem
-title: Teorema: *(Picard-Cindelof)* $\bm{x=3}$
+title: Teorema: *(Picard-Cindelof)*
 
 Sigui $R$ una regió regular del pla $xy$ definida per $R= \{(x,y) \mid a \le x \le b, \, c \le y \le d\}$, que conté el punt $(x_0, y_0)$.
 Suposem que $f$ i que $\frac{\partial f}{\partial y}$ sigui continues a $R$. Aleshores existeix uns única solució $y(x)$ definida a un interval $I_0 = (x_o - h, x_0 + h), \, h > 0$ contingut a $[a, b]$ del problema de valor inicial (PVI)

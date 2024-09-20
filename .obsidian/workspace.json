@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "100173e56402ec04",
+        "id": "067ee4e8995d89a9",
         "type": "tabs",
         "children": [
           {
-            "id": "7729a62ab925a021",
+            "id": "f767e612dcd91d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equacions Diferencials Ordinàries.md",
-                "mode": "source",
-                "source": false
+                "file": "2n/EDOS/Equacions Diferencials Ordinàries.md",
+                "mode": "preview",
+                "source": true
               }
-            }
+            },
+            "group": "b50f7dbc666cd7f7"
+          }
+        ]
+      },
+      {
+        "id": "cc673c7b53015380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9119f0f3ea4ad46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2n/EDOS/Equacions Diferencials Ordinàries.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "b50f7dbc666cd7f7"
           }
         ]
       }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "472d094187b756ea",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equacions Diferencials Ordinàries.md",
+                "file": "2n/EDOS/Equacions Diferencials Ordinàries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equacions Diferencials Ordinàries.md",
+                "file": "2n/EDOS/Equacions Diferencials Ordinàries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equacions Diferencials Ordinàries.md"
+                "file": "2n/EDOS/Equacions Diferencials Ordinàries.md"
               }
             }
           },
@@ -142,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 332.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,21 +179,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7729a62ab925a021",
+  "active": "c9119f0f3ea4ad46",
   "lastOpenFiles": [
-    "Equacions Diferencials Ordinàries.md",
-    "Ink/Writing/2024.9.16 - 0.10am.writing",
-    "Ink/Writing",
-    "Ink",
+    "2n/EDOS/EDOS Llista 1.md",
+    "2n/EDOS/Equacions Diferencials Ordinàries.md",
+    "Excalidraw/Drawing 2024-09-20 09.43.57.excalidraw.md",
+    "Excalidraw",
+    "2n/MI/Modelització i Inferència.md",
     "Untitled.md",
+    "preamble.sty",
+    "Ink/Writing/2024.9.17 - 21.49pm.writing",
+    "Ink/Writing/2024.9.17 - 21.36pm.writing",
+    "Ink/Writing/2024.9.17 - 21.45pm.writing",
+    "Ink/Writing/2024.9.17 - 21.16pm.writing",
+    "Ink/Writing/2024.9.17 - 21.21pm.writing",
+    "Ink/Writing/2024.9.17 - 20.54pm.writing",
+    "Ink/Writing/2024.9.17 - 20.25pm.writing",
+    "Ink/Writing/2024.9.17 - 19.32pm.writing",
+    "EDOS/Drawing 2024-09-17 09.47.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-17 09.46.43.excalidraw.md",
     "Untitled 1.md",
-    "Ink/Writing/2024.9.15 - 16.46pm.writing",
-    "Ink/Writing/2024.9.15 - 2.27am.writing",
-    "Ink/Writing/2024.9.15 - 2.26am.writing",
-    "Ink/Drawing/2024.9.15 - 2.26am.drawing",
-    "Ink/Drawing/2024.9.15 - 2.24am.drawing",
-    "Ink/Writing/2024.9.15 - 2.00am.writing",
-    "Ink/Writing/2024.9.15 - 1.56am.writing",
+    "MI.md",
     "Excalidraw/Drawing 2024-09-11 13.14.31.excalidraw.md",
     "ç.md",
     "Excalidraw/Drawing 2024-09-10 11.39.00.excalidraw.md",
