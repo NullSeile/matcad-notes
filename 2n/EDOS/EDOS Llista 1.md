@@ -1,5 +1,5 @@
 `````ad-exercice
-title: **1. Vegeu si les ==següents== funcions, o famílies de funcions, són solució de la corresponent equació diferencial:**
+title: **1. Vegeu si les següents funcions, o famílies de funcions, són solució de la corresponent equació diferencial:**
 
 
 
