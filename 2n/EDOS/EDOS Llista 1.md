@@ -6,6 +6,15 @@ title: **1. Vegeu si les següents funcions, o famílies de funcions, són soluc
 ````ad-exercice
 title: **a) $\bm{x(t) = 2e^{-2t} + \frac{1}{3}e^t}$, $\bm{x' + 2x = e^t}$**
 
+$$
+x' = -4e^{-2t} + \frac{1}{3}e^t
+$$
+Calculem $x' + 2x$:
+$$\begin{align*}
+x' + 2x &= -4e^{-2t} + \frac{1}{3}e^t + 4e^{-2t} + \frac{2}{3}e^t \\
+&= e^t
+\end{align*}$$
+
 ````
 
 ````ad-exercice
@@ -107,5 +116,15 @@ x'' &= \frac{c_1}{4} e^{\frac{t}{2}} + c_2 e^{-t}
 
 `````
 
+`````ad-exercice
+title: **3. $\bm{x' = 3x^{\frac{2}{3}}}$ té infinites solucions satisfent $\bm{x(0) = 0}$.**
+$$
+x'(t) = 3x^{\frac{2}{3}} = g(t)·h(x)
+$$
+Amb $g(t) = 1$ i $h(x) = 3x^{\frac{2}{3}}$.
+$$
+\frac{\partial x}{\partial t} = 3x^{\frac{2}{3}} \iff \frac{\partial x}{3x^{\frac{2}{3}}} = \partial t \iff \frac{3}{3}x^{\frac{1}{3}} = t + c \iff \frac{1}{3} \int x^{-\frac{2}{3}} dx = \int \partial t
+	$$
+`````
 
 

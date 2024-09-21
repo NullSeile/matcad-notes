@@ -106,6 +106,74 @@ T(t) &= 30 + \mathcal{C} e^{\alpha t}
 \end{align*}$$
 ````
 
+### EDOS Lineals
+Una edo lineal de primer ordre és de la forma $$y' + a(x)y = b(x)$$
+La solució general és de la forma $y(x) = y_h(x) + y_p(x)$ on $y_h(x)$ és la solució de l'edo homogènia associada $y' + a(x)y = 0$ ($y(x) = \mathcal{C}e^{\int a(x)dx}$).
 
 
 
+```ad-example
+Trobem la solució general de $y' + 2xy = 2xe^{-x^2}$.
+
+$y(x) = y_h(x) + y_p(x)$ per tant la homogènia és:
+$$\begin{align*}
+y' + 2xy &= 0 \\
+\int \frac{dy}{y} &= \int -2x \, dx \\
+\ln |y| &= -x^2 + C \\
+y_h(x) &= \mathcal{C}e^{-x^2}
+\end{align*}$$
+
+
+
+Busquem la solució particular:
+$$\begin{align*}
+y_p(x) &= C(x) e^{-x^2} \\
+y_p'(x) &= C'(x) e^{-x^2} - 2x C(x) e^{-x^2} \\
+y_p'(x) + 2xy_p(x) &= C'(x) e^{-x^2} = 2xe^{-x^2} \\
+C'(x) &= 2x \\
+C(x) &= x^2 + C \text{ (aquesta $C$ és de la integració)} \\
+y_p(x) &= (x^2 + C)e^{-x^2}
+\end{align*}$$
+
+```
+
+```ad-example
+$$y' - \frac{y}{x} = x$$
+Homogènia Associada:
+$$\begin{align*}
+
+y' - \frac{y}{x} &= 0 \\
+\frac{dy}{dx} &= \frac{y}{x} \\
+\int \frac{dy}{y} &= \int \frac{dx}{x} \\
+\ln |y| &= \ln |x| + C \\
+y_h(x) &= \mathcal{C}x
+
+\end{align*}$$
+Busquem la solució particular:
+$$\begin{align*}
+y_p(x) &= C(x)x \\
+y_p'(x) &= C'(x)x + C(x) \\
+y_p'(x) - \frac{y_p(x)}{x} &= x \\
+C'(x)x + C(x) - \frac{C(x)x}{x} &= x \\
+C'(x)x &= x \\
+C'(x) &= 1 \\
+C(x) &= x + C \\
+y_p(x) &= (x + C)x
+\end{align*}$$
+```
+
+````ad-example
+Dipòsit -> 6% alcohol/L. Inicialment 400L de cervesa amb 3% alcohol.
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.2.6",
+	"filepath": "Ink/Writing/2024.9.20 - 12.44pm.writing"
+}
+```
+
+$x(t) =$ liters d'alcohol en el dipòsit en el temps $t$.
+$x'(t) = 3·\frac{6}{100}$
+
+````

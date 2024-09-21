@@ -13,8 +13,12 @@ settings:
 */
 
 
+body {
+    font-feature-settings: 'ss02', 'ss03', 'ss04';
+}
+
 /* .admonition-theorem, */
-.admonition-definition,
+/* .admonition-definition, */
 .admonition-exercice
 {
     border: 1px solid var(--background-modifier-border-focus);
@@ -29,3 +33,11 @@ settings:
 .highlightr-lowlight .admonition-content > .markdown-preview-view mark {
     --lowlight-background: transparent;
 }
+
+.ddc_ink_writing-embed-preview path {
+    fill: var(--text-normal);
+}
+
+/* .HyperMD-codeblock > .cm-math {
+    font-size: 1em;
+} */

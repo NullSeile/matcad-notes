@@ -4,7 +4,6 @@
   "obsidian-math-plus",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "quick-latex",
   "obsidian-underline",
   "execute-code",
   "github-copilot",
@@ -14,5 +13,6 @@
   "highlightr-plugin",
   "obsidian-style-settings",
   "css-editor",
-  "obsidian-latex"
+  "obsidian-latex",
+  "obsidian-latex-suite"
 ]
