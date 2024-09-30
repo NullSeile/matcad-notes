@@ -37,8 +37,8 @@ Una solució d'equilibri de $y' = f(x,y)$ és una solució de la forma $y(x) = y
 Si l'equació és autònoma $y' = f(y)$ les solucions d'equilibri $y(x) = y*$ estan donades pels zeros de $f$ i estan definides $\forall x \in \R$
 
 ```ad-example
- 1) $y' = (y-1)e^x$  --> $f(x) = 1$
- 2) $y' = y - x$ --> No té equilibri
+ 1) $y' = (y-1)e^x \to f(x) = 1$
+ 2) $y' = y - x \to$ No té equilibri
 ```
 
 

@@ -1,3 +1,4 @@
+
 $$
 \frac{ \partial y }{ \partial x } 
 $$
@@ -10,11 +11,16 @@ $$
 asdf
 $$
 
-```mehrmaid
+```mermaid
 flowchart LR
-A["asdf"]
+	mec["Mecànic"]
+	rep[Reparació]
+	tall[Taller]
 
-A --> B
+	fa1{"Fa"}
+	fa2{"Es Fa"}
+	fa3{"Fa"}
+	mec --- fa1 --- rep
+	rep --- fa2 --- tall
+	tall --- fa3 --- mec
 ```
-
-

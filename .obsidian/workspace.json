@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbeb79680dc3265f",
+        "id": "dd1319ec2357541e",
         "type": "tabs",
         "children": [
           {
-            "id": "b98f2ac270042a02",
+            "id": "e531beaa3593ffcf",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/github-copilot/data.json",
+                "file": ".obsidian/plugins/mermaid-tools/data.json",
                 "staged": false
-              }
-            }
-          },
-          {
-            "id": "e200dbdbb225b74a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2n/BDR/Excalidraw/l1e25.md"
               }
             }
           }
@@ -78,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5110321044922
+    "width": 227.5
   },
   "right": {
     "id": "472d094187b756ea",
@@ -141,6 +131,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "3245794b92d8bc17",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -151,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -162,28 +161,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b98f2ac270042a02",
+  "active": "e531beaa3593ffcf",
   "lastOpenFiles": [
+    "Excalidraw/Llista 1 2024-09-30 22.52.03.excalidraw.md",
     "2n/BDR/Llista 1.md",
-    "2n/BDR/Excalidraw/l1e25.md",
-    "2n/BDR/Excalidraw/l1e20.md",
-    "2n/BDR/Excalidraw",
-    "2n/EDOS/EDOS Llista 1.md",
-    "Excalidraw/Untitled 1 2024-09-26 12.32.35.excalidraw.md",
-    "Untitled.md",
-    "2n/EDOS/Equacions Diferencials Ordinàries.md",
+    "Excalidraw/Llista 1 2024-09-30 22.32.58.excalidraw.md",
+    "Excalidraw/Llista 1 2024-09-30 22.20.08.excalidraw.md",
     "Excalidraw",
-    "Ink/Drawing/2024.9.26 - 12.23pm.drawing",
+    "2n/MI/Modelització i Inferència.md",
+    "2n/EDOS/EDOS Llista 1.md",
+    "2n/EDOS/Equacions Diferencials Ordinàries.md",
+    "Ink/Writing/2024.9.17 - 21.36pm.writing",
+    "Ink/Writing/2024.9.17 - 21.49pm.writing",
+    "Untitled.md",
+    "2n/BDR/Excalidraw/l1e20.md",
+    "2n/BDR/Excalidraw/l1e25.md",
     "Untitled 2.md",
+    "2n/BDR/Excalidraw",
+    "Excalidraw/Untitled 1 2024-09-26 12.32.35.excalidraw.md",
+    "Ink/Drawing/2024.9.26 - 12.23pm.drawing",
     "Ink/Drawing/2024.9.26 - 12.18pm.drawing",
     "Ink/Drawing",
     "2n/BDR",
     "Untitled",
     "Ink/Writing/2024.9.20 - 12.44pm.writing",
-    "Ink/Writing/2024.9.20 - 11.01am.writing",
-    "Ink/Writing/2024.9.17 - 21.49pm.writing",
     "Excalidraw/Drawing 2024-09-20 09.43.57.excalidraw.md",
-    "2n/MI/Modelització i Inferència.md",
     "EDOS/Drawing 2024-09-17 09.47.23.excalidraw.md",
     "Excalidraw/Drawing 2024-09-17 09.46.43.excalidraw.md",
     "MI.md",

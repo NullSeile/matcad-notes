@@ -12,13 +12,10 @@ settings:
         default: '#ffd000'
 */
 
-
 body {
     font-feature-settings: 'ss02', 'ss03', 'ss04';
 }
 
-/* .admonition-theorem, */
-/* .admonition-definition, */
 .admonition-exercice
 {
     border: 1px solid var(--background-modifier-border-focus);
@@ -28,18 +25,28 @@ body {
     display: none;
 }
 
-.highlightr-lowlight .admonition-content mark,
-.highlightr-lowlight .admonition-content span.cm-highlight,
-.highlightr-lowlight .admonition-content > .markdown-preview-view mark {
-    --lowlight-background: transparent;
+mark,
+.cm-highlight {
+    background-color: unset !important;
+    background-image: linear-gradient(
+        0deg,
+        var(--text-highlight-bg) 40%,
+        transparent 40%
+    ) !important
 }
+
+/* .highlightr-lowlight .admonition-content mark,
+.highlightr-lowlight .admonition-content .cm-highlight,
+.highlightr-lowlight .admonition-content > .markdown-preview-view mark {
+    --loowlight-background: transparent;
+} */
 
 .ddc_ink_writing-embed-preview path {
     fill: var(--text-normal);
 }
 
-/* .HyperMD-codeblock > .cm-math {
-    font-size: 1em;
+/* .HyperMD-codeblock > .cm-highlight {
+    --lowlight-background: var(--code-background) !important;
 } */
 
 .er.attributeBoxOdd {
