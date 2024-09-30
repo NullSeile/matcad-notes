@@ -41,3 +41,11 @@ body {
 /* .HyperMD-codeblock > .cm-math {
     font-size: 1em;
 } */
+
+.er.attributeBoxOdd {
+    fill: var(--background-primary) !important;
+}
+
+.er.attributeBoxEven {
+    fill: var(--background-secondary) !important;
+}
