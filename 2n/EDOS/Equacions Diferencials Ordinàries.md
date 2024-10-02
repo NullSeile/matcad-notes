@@ -177,3 +177,13 @@ $x(t) =$ liters d'alcohol en el dipòsit en el temps $t$.
 $x'(t) = 3·\frac{6}{100}$
 
 ````
+
+
+````ad-theorem
+title: Teorema: *Comportament Asimptòtic d'equacions autònomes*
+Donada una equació diferencial autònoma $$y' = p(y^{t}) \, (*)$$
+1. Si $y(x)$ és solució de l'equació $(*)$ aleshores per a qualsevol constant real $c$, també és solució $y_{c}(x) = y(x+c)$
+2. Si $y(x)$ és una solució de l'equació $(*)$ que NO és un equilibri (és a dir que no és constant) aleshores és estrictament creixent o estrictament decreixent.
+3. Una solució acotada de $(*)$ tendeix a una solució d'equilibri (quan $x$ tendeix a $\pm \infty$)
+4. Si $f(a) = 0$, $f(b) = 0$ i $f(y) \underset{ < }{ > } 0$ per a $a<y<b$ i $y(x_{0}) \in (a,b)$ aleshores $\lim_{ x \to -\infty } y(x) = \underset{ b }{ a }$ i $\lim_{ x \to +\infty } y(x) = \underset{ a }{ b }$
+````
