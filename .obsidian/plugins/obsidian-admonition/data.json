@@ -49,6 +49,32 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "lema": {
+      "type": "lema",
+      "color": "157, 64, 191",
+      "icon": {
+        "name": "american-sign-language-interpreting",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Lema",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "demo": {
+      "type": "demo",
+      "color": "138, 138, 138",
+      "icon": {
+        "name": "angry",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Demostració",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": true,
